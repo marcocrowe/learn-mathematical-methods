@@ -1,0 +1,4 @@
+ipython==8.15.0
+matplotlib==3.8.2
+numpy==1.24.3
+sympy==1.12
