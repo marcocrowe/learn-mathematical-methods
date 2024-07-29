@@ -15,6 +15,8 @@ Requirements for this paper:
 
 1. Calculators
 
+**You must answer Question One**  
+
 ## Question 1 (Total Marks 40)
 
 ## Question 1(a)
@@ -168,5 +170,3 @@ Year: 2024 - Summer
 | Mike O Connell            | Internal |
 | Pamela O Brien            | Internal |
 | Dr. Fernando Perez-Tellez | External |
-
-**You must answer Question One**  

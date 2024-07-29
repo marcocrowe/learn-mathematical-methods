@@ -133,10 +133,10 @@ Year: 2022 - Summer
 
 | Code           | Programme                                |
 |----------------|------------------------------------------|
-| LC\_SMEDM\_KMY | Bsc. (Honours) Medical Technology        |
-| LC\_SMEDM\_JMY | Bsc. Medical Technology                  |
-| LC\_SMEDM\_IMY | Higher Certificate in Medical Technology |
-| LC\_SCLIM\_KMY | Bsc. (Honours) Clinical Technology       |
+| LC_SMEDM_KMY | Bsc. (Honours) Medical Technology        |
+| LC_SMEDM_JMY | Bsc. Medical Technology                  |
+| LC_SMEDM_IMY | Higher Certificate in Medical Technology |
+| LC_SCLIM_KMY | Bsc. (Honours) Clinical Technology       |
 
 ### Examiners
 
