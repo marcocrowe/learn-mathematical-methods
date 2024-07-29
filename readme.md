@@ -6,7 +6,9 @@ This repository is a contains notes and code for beginners Mathematical Methods 
 ## Requirements
 
 - [Python &ge; 3.10](https://www.python.org/downloads/)
-- [Visual Studio Code](https://code.visualstudio.com/)[^1]
+- [Visual Studio Code](https://code.visualstudio.com/)[^vs-code]
+
+[^vs-code]: The Extensions recommended for this Java Spring and this project are in [extensions.json](./.vscode/extensions.json)
 
 ## Subjects
 
