@@ -30,7 +30,7 @@ Given $f(x) = 7 + 2x$, $g(x) = \dfrac{2x+4}{6}$, $h(x) = x^2 - 5$, evaluate
 
 ### Question 1(b)
 
-1. **Plot** the graph of $y = 4e^{0.5x}$< for value of x from x = -5 to x = 4, using intervals of one. **(12 Marks)**
+1. **Plot** the graph of $y = 4e^{0.5x}$ < for value of x from x = -5 to x = 4, using intervals of one. **(12 Marks)**
 2. Use your graph to find the value of y when x = 1.5 **(3 Marks)**
 
 ### Question 1(c)
